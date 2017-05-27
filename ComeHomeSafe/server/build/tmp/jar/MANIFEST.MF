@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Title: My Application
+Version: 1.0-SNAPSHOT
+Main-Class: xyz.miffle.returnhome.ReturnHomeServer
+
